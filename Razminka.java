@@ -9,8 +9,8 @@ public class Razminka{
         System.out.println("1: " + RussiaAdd(a, b));
         System.out.println("2: " + RussiaAddRec(a, b));
         System.out.println("3: " + mulHornerMSB(a, b));
-        System.out.println("3: " + Add(a, b));
-        System.out.println("3: " + Recursion(a, b));
+        System.out.println("4: " + Add(a, b));
+        System.out.println("5: " + Recursion(a, b));
     }
 
     //цикл сложений
